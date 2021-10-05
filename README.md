@@ -1,5 +1,5 @@
 ## Welcome !
-<div style="display: flex;">
+<div style="">
 	<div style="display: block; width: 50%; border-right: 1px solid #f3f3f3">
 		<div>
 		  <a href="https://github.com/lucianosousa021/">
