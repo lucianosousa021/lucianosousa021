@@ -1,16 +1,12 @@
 <h1>Welcome !</h1>
 
-<div style="display: block; width: 50%; border-right: 1px solid #f3f3f3">
-        <div>
+<div >
           <a href="https://github.com/lucianosousa021/">
-                <img width="800em" src="https://github-readme-stats.vercel.app/api?username=lucianosousa021&show_icons=true&include_all_commits=true&count_private=true&custom_title=Luciano Sousa&theme=github_dark" />
+                <img height="250em" src="https://github-readme-stats.vercel.app/api?username=lucianosousa021&show_icons=true&include_all_commits=true&count_private=true&custom_title=Luciano Sousa&theme=github_dark" />
           </a>
-        </div>
-        <div>
-                <a href="https://github.com/lucianosousa021/">
-                        <img width="800em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianosousa021&theme=github_dark" />
-                </a>
-        </div>
+          <a href="https://github.com/lucianosousa021/">
+                <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianosousa021&theme=github_dark" />
+          </a>
 </div>
 
 
