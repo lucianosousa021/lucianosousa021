@@ -2,8 +2,16 @@
           <h1>Olá!</h1>
 </div>
 
-#Meu nome é <h1>Luciano</h1>
-#Sou um entusiasta em tecnologia
+
+👨 Meu nome é Luciano <br/>
+💻 Sou um entusiasta em tecnologia ❤️ <br/>
+📊 Atualmente trabalho com contabilidade <br/>
+🏖️ Moro no Rio de Janeiro <br/>
+
+🚀 Estudando... 🚀
+
+<div></div>
+
 <div align="center">
           <a href="https://github.com/lucianosousa021/">
                 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucianosousa021&show_icons=true&include_all_commits=true&count_private=true&custom_title=Luciano Sousa&theme=github_dark" />
