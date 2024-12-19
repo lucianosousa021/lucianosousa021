@@ -1,7 +1,10 @@
 “Luciano | CTO da ContabHub 
 🌟 
 ============================= 
-🌐 [ContabHub](https://contabhub.com.br/) | 💼 [BeeFlowTech](https://www.beeflowtech.com.br/) 
+🌐 [ContabHub](https://contabhub.com.br/) | 💼 [BeeFlowTech](https://www.beeflowtech.com.br/)
+<br/>
+<br/>
+<br/>
 🚀 Sobre mim 
 ------------ 
 Olá! Sou Luciano, CTO da **ContabHub**, uma empresa especializada em inteligência artificial para contabilidade. Além disso, trabalho como freelancer através da **BeeFlowTech**, ajudando empresas e pessoas a construírem soluções personalizadas e de alto impacto. Com vasta experiência em desenvolvimento de software, sou apaixonado por resolver problemas complexos e criar soluções inovadoras que geram valor para negócios e pessoas. 
