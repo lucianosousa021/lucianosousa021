@@ -1,4 +1,6 @@
-“Luciano | CTO da ContabHub 
+Luciano Sousa 
+<br/>
+**CTO da ContabHub | Freelancer | Open to work**
 🌟 
 ============================= 
 🌐 [ContabHub](https://contabhub.com.br/) | 💼 [BeeFlowTech](https://www.beeflowtech.com.br/)
