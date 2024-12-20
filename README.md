@@ -169,6 +169,7 @@ Olá! Sou Luciano, CTO da **ContabHub**, uma empresa especializada em inteligên
 * * *
 📈 Projetos em Destaque 
 ----------------------- 
+* **[Bee Flow](https://github.com/lucianosousa021/Bee-Workflow)** Ferramenta Opensource de colaboração com o uso de IA
 * **[ContabHub](https://contabhub.com.br/):** Plataforma de IA para contabilidade
 * **[BeeFlowTech](https://www.beeflowtech.com.br/):** Software house para freelancing
 * * *
