@@ -1,6 +1,6 @@
 # Luciano Sousa
 
-### CTO & Full Stack Software Engineer | SaaS • AI • Backend • Cloud
+### Desenvolvedor Full Stack | SaaS • AI • Backend • Cloud • Frontend
 
 Desenvolvedor de software com experiência na construção de **aplicações web, APIs, SaaS e soluções baseadas em Inteligência Artificial**.
 
