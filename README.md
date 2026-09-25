@@ -139,10 +139,6 @@ Software Engineering
 
 📧 **Email:** [021lucianosousa@gmail.com](mailto:021lucianosousa@gmail.com)
 
-🌐 **ContabHub:** https://contabhub.com.br/
-
-💼 **BeeFlowTech:** https://www.beeflowtech.com.br/
-
 ---
 
 ### 💻 Construindo software, produtos e soluções que transformam problemas reais em sistemas.
